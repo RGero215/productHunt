@@ -17,6 +17,7 @@
 		870F84162228C35300DCDC92 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870F84152228C35300DCDC92 /* NetworkManager.swift */; };
 		870F84182228CB6000DCDC92 /* CommentsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870F84172228CB6000DCDC92 /* CommentsViewController.swift */; };
 		870F841A2228CE9E00DCDC92 /* CommentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870F84192228CE9E00DCDC92 /* CommentTableViewCell.swift */; };
+		870F841C2228D17F00DCDC92 /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 870F841B2228D17F00DCDC92 /* Comment.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		870F84152228C35300DCDC92 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		870F84172228CB6000DCDC92 /* CommentsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentsViewController.swift; sourceTree = "<group>"; };
 		870F84192228CE9E00DCDC92 /* CommentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentTableViewCell.swift; sourceTree = "<group>"; };
+		870F841B2228D17F00DCDC92 /* Comment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				870F840122286E2C00DCDC92 /* FeedViewController.swift */,
 				870F840322286E2C00DCDC92 /* Main.storyboard */,
 				870F84172228CB6000DCDC92 /* CommentsViewController.swift */,
+				870F841B2228D17F00DCDC92 /* Comment.swift */,
 				870F84192228CE9E00DCDC92 /* CommentTableViewCell.swift */,
 				870F84132228BD4B00DCDC92 /* PostTableViewCell.swift */,
 				870F84112228B19600DCDC92 /* Post.swift */,
@@ -153,6 +156,7 @@
 				870F84122228B19600DCDC92 /* Post.swift in Sources */,
 				870F840222286E2C00DCDC92 /* FeedViewController.swift in Sources */,
 				870F84182228CB6000DCDC92 /* CommentsViewController.swift in Sources */,
+				870F841C2228D17F00DCDC92 /* Comment.swift in Sources */,
 				870F84162228C35300DCDC92 /* NetworkManager.swift in Sources */,
 				870F841A2228CE9E00DCDC92 /* CommentTableViewCell.swift in Sources */,
 				870F840022286E2C00DCDC92 /* AppDelegate.swift in Sources */,
